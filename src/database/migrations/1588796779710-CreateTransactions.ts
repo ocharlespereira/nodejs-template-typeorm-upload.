@@ -34,7 +34,7 @@ export default class CreateTransactions1588796779710
             default: 'now()',
           },
           {
-            name: 'update_at',
+            name: 'updated_at',
             type: 'timestamp',
             default: 'now()',
           },
